@@ -1,0 +1,47 @@
+.modal_transparent{
+    background-color: transparent !important;
+    font-size: 20px;
+    color: #fff;
+    width: 400px;
+    border-radius: 0px !important;
+    background: url(../img/bg-white-lock.png) repeat;
+    margin: 0 auto;
+    margin-bottom: 0px;
+}
+.modal_transparent a{
+    color:#337ab7 !important;
+}
+.modal_transparent_title{
+    color: #eee;
+    text-align: center;
+    font-weight: 300;
+    font-size: 24.5px;
+}
+.minWidtht40{
+    min-width: 40px;
+}
+.mbottom5{
+    margin-bottom: 5px;
+}
+.fS17{
+    font-size: 17px !important;
+}
+.fS15{
+    font-size: 15px !important;
+}
+.without_border{
+    border: 0px solid !important;
+}
+.mTop50{
+    margin-top: 50px;
+}
+.modal_transparent_footer{
+    border-top: 1px #e5e5e5 dashed !important;
+}
+.a_join{
+    cursor: pointer;
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> f9eb8f2935e210dc911e20d1ac3f5a5339b5f8e8
